@@ -6,7 +6,7 @@
     "bot",
     "forwarder"
   ],
-  "repository": "https://heroku.com/deploy?template=https://github.com/amadfx6/Telegram_Forwarder",
+  "repository": "https://heroku.com/deploy?template=https://github.com/steallootdeal/telegram-forwarder_auto",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables.",
